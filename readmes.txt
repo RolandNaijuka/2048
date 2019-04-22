@@ -8,7 +8,7 @@ NETID: rndabuba
 ASSIGNMENT NUMBER: Project 1
 LAB SECTION: Monday/Wednesday 14:00
 
-Path: rnaijuka/src/..
+
 ******CONTENTS OF Project*********
 
 1. The project works  by creating a game 2048
